@@ -24,3 +24,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+The Rainbow comes and goes  
+ And lovely is the Rose  
+ The Moon doth with delight  
+ Look round her when the heavens are bare  
+ Waters on a starry night  
+ Are beautiful and fair  
+ The sunshine is a glorious birth  
+ But yet I know, where’er I go  
+ That there hath past away a glory from the earth.  
+   
